@@ -1,4 +1,4 @@
-projects: ['PROJ', 'ABC']
+projects: ['MDCPT', 'mdcpt', 'api', 'API', 'CRED', 'cred', 'AS', 'as', 'CLIM', 'clim', 'COMP', 'comp', 'host', 'HOST']
 check_title: true
 check_branch: true
 check_commits: true
